@@ -68,7 +68,7 @@ the instructions
   using ModiaMath
   result = simulate(FirstOrder, 2);
   @show result["x"][end];
-  ModiaMath.plot(result, "x")
+  Modia.ModiaMath.plot(result, "x")
 ```
 
 ## Examples
